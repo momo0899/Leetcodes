@@ -1,0 +1,11 @@
+# def fib(n):
+#     i = 0
+#     j = 1
+#     l = [0,1]
+#     step = 0
+#     while step < n:
+#         l.append(i+j)
+#         i,j = j,i+j
+#         step += 1
+#     return l
+# print(fib(7))
